@@ -15,7 +15,7 @@
 <br/><br/><br/>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/manish-749473188?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF3E6h2u1TSCYXRGyFJAL8A%3D%3D) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-749473188?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF3E6h2u1TSCYXRGyFJAL8A%3D%3D) 
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23161760/manish)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/manish14071) 
 [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://twitter.com/manish2012dehr1) 
