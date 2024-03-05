@@ -68,8 +68,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" heigth="200px"/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Manish&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" height="200px"/><br/>
-<img src="https://github.r2v.ch/codewars?user=Manish&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/></p>
-
+<img src="https://github.r2v.ch/codewars?user=Manish&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="400px" height="200px"/></p>
 <br/>
 
 # 🏆 GitHub Trophies
