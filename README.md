@@ -66,14 +66,14 @@
 
 # 📊 Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" heigth="200px"/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" height="200px"/><br/>
-<img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="400px" height="200px"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" heigth="200px"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Manish&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" height="200px"/><br/>
+<img src="https://github.r2v.ch/codewars?user=Manish&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="400px" height="200px"/></p>
 
 <br/>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chuinga&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Manish&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <br/>
 
