@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="/intro_to_comp_programming.jpg">
-🔭 I’m currently working on my portfolio website<br>
+🔭 I’m currently working on my New Projects <br>
 🌱 I’m currently learning Typescript<br>
 💬 Ask me about HTML, CSS, Bootstrap, Javascript, Express JS, JQuery, Node JS, React JS, and MongoDB <br>
 ⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up the trails on my downhill bike, embracing the thrill of speed and adventure.
